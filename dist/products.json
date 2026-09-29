@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "product_id": "TEMU_DECOR_101",
+      "name": "Modern Home LED Lamp",
+      "price": 15.99,
+      "image": "https://example.com/lamp.jpg",
+      "source": "Temu",
+      "affiliate_url": "https://www.temu.com/kuiper/uk1.html?subj=goods-detail&_bg_fs=1&_p_mat2_type=a4002&_p_jump_id=1040&_x_vst_scene=adg&adg_ctx=a-dfff58c9&goods_id=601099590118910&_p_rfs=1&_x_ads_channel=kol_affiliate&_x_campaign=affiliate&_x_cid=6011563259kol_affiliate&_x_ads_csite=affiliate_goods_share_v2&g_site=100&g_lg=ar&g_region=211&g_ccy=USD&_x_ns_adg_stid=625ff64840584b56_nkkt9ev",
+      "score": 0.9,
+      "status": "READY_FOR_PUBLISH"
+    }
+  ]
+}

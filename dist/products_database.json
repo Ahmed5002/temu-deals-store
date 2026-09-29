@@ -1,0 +1,36 @@
+{
+    "Electronics & Gadgets": [
+        {
+            "title": "Anker Portable Magnetic Wireless Charger",
+            "price": "$39.99",
+            "desc": "Ultra-compact wireless charging power bank for iPhone and USB-C devices.",
+            "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0",
+            "link": "https://www.amazon.com/dp/B08X4V9BRS?tag=your-affiliate-id-20"
+        },
+        {
+            "title": "Logitech MX Master 3S Wireless Mouse",
+            "price": "$99.99",
+            "desc": "High-performance wireless mouse with quiet clicks and precise tracking.",
+            "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7",
+            "link": "https://www.amazon.com/dp/B09HM1V6BH?tag=your-affiliate-id-20"
+        }
+    ],
+    "Smart Home & Tools": [
+        {
+            "title": "Amazon Echo Dot (5th Gen) Smart Speaker",
+            "price": "$49.99",
+            "desc": "Our best sounding Echo yet with vibrant sound and Alexa built-in.",
+            "image": "https://images.unsplash.com/photo-1543512214-318c7553f230",
+            "link": "https://www.amazon.com/dp/B09B8W4W3P?tag=your-affiliate-id-20"
+        }
+    ],
+    "Fashion & Streetwear": [
+        {
+            "title": "Carhartt WIP Nimbus Pullover Jacket",
+            "price": "$145.00",
+            "desc": "Water-repellent classic streetwear jacket designed for durability and style.",
+            "image": "https://images.unsplash.com/photo-1544441893-675973e31985",
+            "link": "https://www.amazon.com/dp/B07NSS9W5L?tag=your-affiliate-id-20"
+        }
+    ]
+}
