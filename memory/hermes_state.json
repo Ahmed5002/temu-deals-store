@@ -1,0 +1,14 @@
+{
+  "decisions_log": [
+    {
+      "timestamp": "2026-09-30T12:13:00.474245",
+      "product_id": "p101",
+      "title": "سماعات لاسلكية",
+      "status": "APPROVE",
+      "score": 85,
+      "reason": "منتج ممتاز"
+    }
+  ],
+  "published_pins": [],
+  "performance_stats": {}
+}
